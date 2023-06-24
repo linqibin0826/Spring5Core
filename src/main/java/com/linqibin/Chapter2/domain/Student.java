@@ -1,4 +1,4 @@
-package com.linqibin.Chapter2;
+package com.linqibin.Chapter2.domain;
 
 import lombok.Data;
 
